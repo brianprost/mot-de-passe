@@ -23,14 +23,14 @@ function App() {
           {accounts.map((account) => (
             <div
               className="card w-96 bg-base-200 text-neutral-content"
-              key={account.displayName}
+              key={account.username}
             >
               <div className="card-body items-center text-center">
-                <h2 className="card-title text-2xl">{account.displayName}</h2>
+                <h2 className="card-title text-2xl">{account.username}</h2>
                 <p className="my-5">{account.email}</p>
                 <div className="card-actions justify-end">
                   <button
-                    className="btn btn-primary"
+                    className="btn btn-info"
                     onClick={() => buttonClick("email", account.email)}
                   >
                     Copy Email
