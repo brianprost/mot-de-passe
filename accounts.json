@@ -1,0 +1,27 @@
+[
+    {
+        "displayName": "Charlie",
+        "email": "charliekelly@alwayssunny.com",
+        "password": "passwordForCharlie"
+    },
+    {
+        "displayName": "Dennis",
+        "email": "thegoldengod@alwayssunny.com",
+        "password": "passwordForDennis"
+    },
+    {
+        "displayName": "Mac",
+        "email": "nightmancometh@alwayssunny.com",
+        "password": "passwordForMac"
+    },
+    {
+        "displayName": "Dee",
+        "email": "sweetdeeanacidman@alwayssunny.com",
+        "password": "passwordForDee"
+    },
+    {
+        "displayName": "Frank",
+        "email": "thetrashman@alwayssunny.com",
+        "password": "passwordForFrank"
+    }
+]
