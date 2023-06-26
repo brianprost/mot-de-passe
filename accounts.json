@@ -1,26 +1,26 @@
 [
     {
-        "displayName": "Charlie",
+        "username": "Charlie",
         "email": "charliekelly@alwayssunny.com",
         "password": "passwordForCharlie"
     },
     {
-        "displayName": "Dennis",
+        "username": "Dennis",
         "email": "thegoldengod@alwayssunny.com",
         "password": "passwordForDennis"
     },
     {
-        "displayName": "Mac",
+        "username": "Mac",
         "email": "nightmancometh@alwayssunny.com",
         "password": "passwordForMac"
     },
     {
-        "displayName": "Dee",
+        "username": "Dee",
         "email": "sweetdeeanacidman@alwayssunny.com",
         "password": "passwordForDee"
     },
     {
-        "displayName": "Frank",
+        "username": "Frank",
         "email": "thetrashman@alwayssunny.com",
         "password": "passwordForFrank"
     }
