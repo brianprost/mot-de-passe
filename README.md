@@ -8,5 +8,5 @@ basically a password manager as an index.html
 
 * Paste whatever accounts you want into the accounts.json file in the example format there.
 * Then, run `pnpm build`
-* You'll find your `html` file at `dist/mot_de_passe.html`
+* You'll find your `html` file at `dist/mot-de-passe.html`
 * ***fin***
